@@ -1,5 +1,3 @@
-[Proxy]
-
 CAN 1 = custom,64.137.226.124,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
 EUR 1 = custom,79.133.33.182,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
 EUR 2 = custom,79.133.33.213,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
