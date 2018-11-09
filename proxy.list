@@ -1,0 +1,45 @@
+[Proxy]
+
+CAN 1 = custom,64.137.226.124,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+EUR 1 = custom,79.133.33.182,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+EUR 2 = custom,79.133.33.213,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+RUS 1（高级）[中转] = custom,92.223.80.63,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+RUS 2 [中转] = custom,185.209.85.128,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+RUS 3（高级）[中转] = custom,92.38.129.131,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+RUS 4（高级） = custom,46.17.45.58,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+
+USA 1（CeraNetwork波特兰，目前延迟表现最稳定的中美线路） = custom,161.129.39.160,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+USA 3 [Zenlayer-GIA]（高级） = custom,103.102.7.200,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+USA 4 [QN] = custom,103.79.76.228,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+USA 5 [高级]（美国Internap机房视频线，可以观看Netflix） = custom, 64.94.100.168,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+USA 7（高级） = custom,103.86.71.201,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+USA 8 （高级）[GIA-CN2] = custom,38.106.22.159,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+
+HK 1（高级）[中转] = custom,103.16.229.166,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 2[香港HKT千兆独立带宽，打机神线，对游戏服务器有路由优化]（高级-中转） = custom,hk1.node.hktooo.top,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 3 = custom,103.75.117.213,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 3（备用线）[中转] = custom,27.0.232.218,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 5（高级）[香港HGC] = custom,103.16.229.21,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 6（腾讯云香港游戏线【新】） = custom,119.28.225.153,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+HK 7（高级）[阿里云视频线，暂不可用] = custom,47.52.118.192,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+KR 1 = custom,92.38.135.114,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+KR 2（高级） = custom,92.38.135.42,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 1（日本东京NTT线路）（高级） = custom,108.61.246.59,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 2 [中转] = custom,45.32.38.60,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 3（移动专线）[中转] = custom,103.75.118.142,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 4（高级）[日本M247机房，三网直连] = custom,193.38.139.32,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 5（高级）[日本多线BGP游戏节点] = custom,103.85.25.135,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 6（高级）[日本Amazon，PUBG同机房，非日本原生IP] = custom,18.179.49.36,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+JP 7（日本高级视频线路，原生IP适合观看视频） = custom,202.218.34.219,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+SGP 1 [Aliyun SG] [中转] = custom,47.88.222.188,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+SGP 3（不适用于游戏代理） = custom,195.123.237.34,11022,xchacha20-ietf-poly1305,Am1o8A,https://www.sibylcloudnewgeneration.men/downloads/SSEncrypt.module
+
+
+[Proxy Group]
+🍂 Domestic = select, DIRECT,🍃 Proxy
+🍃 Proxy = select,🏃 Auto1, 🏃 Auto2,DIRECT
+☁️ Others =  select,🍃 Proxy, DIRECT
+🍎 Only = select, DIRECT,🍃 Proxy
+🏃 Auto1 = url-test,CAN 1,EUR 1,EUR 2,HK 1（高级）[中转],HK 2 [香港HKT千兆独立带宽]（高级-中转）,HK 3,HK 5（高级）[香港HGC],RUS 1（高级）[中转],RUS 2 [中转],RUS 3（高级）[中转],UKR 1,UK（BBC及iPlayer可用）,USA 2 [GIA-CN2],USA 3 【已更换】[Zenlayer]（高级）,USA 4 [QN],USA 5 【已更换】[GIA-CN2],USA 6 [GIA-CN2]（高级）,USA 8 （高级）[GIA-CN2],url = http://www.gstatic.com/generate_204,interval = 1200
+🏃 Auto2 = url-test,HK 2[香港HKT千兆独立带宽，打机神线，对游戏服务器有路由优化]（高级-中转）,HK 3,JP 2 [中转],JP 4（高级）[日本M247机房，三网直连],JP 6（高级）[日本Amazon，PUBG同机房，非日本原生IP],KR 1,USA 3 [Zenlayer-GIA]（高级）,USA 7（高级）,url = http://www.gstatic.com/generate_204,interval = 1200
+
